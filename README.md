@@ -1,5 +1,5 @@
 # desafio-bootcamp-aws-ec2
-Este repositório documenta o aprendizado até ao desafio prático de gerenciamento de instâncias EC2 da AWS. Ele consolida anotações, insights e passos detalhados para o aprendizado de arquitetura e infraestrutura na nuvem.
+Este repositório documenta o aprendizado inicial até o desafio prático de gerenciamento de instâncias EC2 da AWS. Ele consolida anotações, insights e passos detalhados para o aprendizado de arquitetura e infraestrutura na nuvem.
 # Desafio Bootcamp AWS
 
 Este repositório serve como meu caderno de anotações e base de conhecimento para o **Desafio Prático de Gerenciamento de Instâncias EC2 na AWS**.
