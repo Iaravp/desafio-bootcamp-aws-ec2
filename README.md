@@ -8,7 +8,7 @@ Este índice foi criado para facilitar a navegação e o acesso rápido aos tóp
 
 ### Seção 1: Fundamentos e Infraestrutura AWS
 
-* **[Conceitos Fundamentais da AWS]([docs/aws/01-fundamentos-aws.md](https://github.com/Iaravp/desafio-bootcamp-aws-ec2/blob/main/01-fundamentos-aws.md))**
+* **[Conceitos Fundamentais da AWS](docs/aws/01-fundamentos-aws.md](https://github.com/Iaravp/desafio-bootcamp-aws-ec2/blob/main/01-fundamentos-aws.md)**
 * **[Infraestrutura Global: Regions e Availability Zones](docs/aws/01-fundamentos-aws.md)**
 * **[Gerenciamento e Segurança da Conta](docs/aws/01-fundamentos-aws.md)**
 * **[Formas de Acesso](docs/aws/01-fundamentos-aws.md)**
