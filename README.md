@@ -4,9 +4,9 @@ Este repositório documenta meu aprendizado durante o **Bootcamp Santander Code 
 
 ## 📑 Índice
 - [Aula 01 - Introdução](./aula01-introducao)
-- [Aula 02 - Lógica de Programação](./aula02-logica)
-- [Aula 03 - Git e GitHub](./aula03-git-github)
-- [Aula 04 - Java Básico](./aula04-java)
+- [Aula 02 -](./aula02-logica)
+- [Aula 03 - ](./aula03-git-github)
+- [Aula 04 - ](./aula04-java)
 - [Extras](./extras)
 
 ---
