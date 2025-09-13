@@ -1,12 +1,35 @@
-**Em andamento** # desafio-bootcamp-aws-ec2
-Este repositório documenta o aprendizado inicial até o desafio prático de gerenciamento de instâncias EC2 da AWS. Ele consolida anotações, insights e passos detalhados para o aprendizado de arquitetura e infraestrutura na nuvem.
-# Desafio Bootcamp AWS
+# 🚀 Bootcamp Code Girls Santander
 
-Sumário da Documentação
+Este repositório documenta meu aprendizado durante o **Bootcamp Santander Code Girls 2025**, com resumos, mapas mentais e exercícios práticos.
 
-Este índice foi criado para facilitar a navegação e o acesso rápido aos tópicos documentados.
+## 📑 Índice
+- [Aula 01 - Introdução](./aula01-introducao)
+- [Aula 02 - Lógica de Programação](./aula02-logica)
+- [Aula 03 - Git e GitHub](./aula03-git-github)
+- [Aula 04 - Java Básico](./aula04-java)
+- [Extras](./extras)
 
-### Seção 1: Fundamentos e Infraestrutura AWS
+---
+
+## 🎯 Objetivo
+Registrar de forma clara e organizada o que estou aprendendo, para:
+- Fixar o conteúdo
+- Compartilhar conhecimento
+- Mostrar evolução contínua
+
+---
+
+## 📚 Estrutura
+Cada pasta contém:
+- `resumo.md` → anotações da aula em texto
+- `mapa-mental.png` → mapa mental (digital ou foto do caderno)
+- `exercicios` → códigos de prática (quando houver)
+
+---
+
+## 🖊️ Observação Pessoal
+> *Minha meta é não só concluir o bootcamp, mas também consolidar o aprendizado e compartilhar de forma que outras pessoas também possam se beneficiar.*
+
 
 
 ---
