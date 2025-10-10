@@ -3,7 +3,7 @@
 Este repositório documenta meu aprendizado durante o **Bootcamp Santander Code Girls 2025**, com resumos, mapas mentais e exercícios práticos.
 
 ## 📑 Índice
-- [Aula 01 - Introdução](/aula01-introducao)
+- [Aula 01 - Introdução](/01-fundamentos-aws.md)
 - [Aula 02 -](/aula02-logica)
 - [Aula 03 - ](/aula03-git-github)
 - [Aula 04 - ](/aula04-java)
