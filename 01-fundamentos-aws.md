@@ -9,4 +9,4 @@ A plataforma oferece três principais modelos de serviço, que variam na quantid
 * **SaaS (Software as a Service):** Fornece software pronto para uso, acessado pela internet. Você simplesmente usa o serviço, e a AWS gerencia tudo, do hardware à manutenção.
 
 
-![Mapa Mental da Arquitetura AWS](diagrams/mapa-mental-aws.png)
+![Mapa Mental da Arquitetura AWS](diagrams/01 mapa-mental-fundamentos-aws)
