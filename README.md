@@ -3,11 +3,11 @@
 Este repositório documenta meu aprendizado durante o **Bootcamp Santander Code Girls 2025**, com resumos, mapas mentais e exercícios práticos.
 
 ## 📑 Índice
-- [Aula 01 - Introdução](/01-fundamentos-aws.md)
-- [Aula 02 -](/02-Infraestrutua-global.md)
-- [Aula 03 - ](/aula03-git-github)
-- [Aula 04 - ](/aula04-java)
-- [Extras](/extras)
+- [Aula 01 - Fundamentos AWS](/01-fundamentos-aws.md)
+- [Aula 02 - Infraestrutura Global](/02-Infraestrutua-global.md)
+- [Aula 03 - Formas de Acesso](/03-Gerenciamento-da-conta.md)
+- [Aula 04 - Automação em Grupos e Usuários](/04-Formas-de-acesso-AWS.md)
+- [Aula 05 - Automação com Grupos e Usuários](/05-Autmacao-com-grupos-e-usuarios.md)
 
 ---
 
