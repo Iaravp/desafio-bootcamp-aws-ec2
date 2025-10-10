@@ -6,3 +6,5 @@ O **IAM (Identity and Access Management)** é o serviço que permite gerenciar o
 * **Políticas de permissões:** Definir exatamente o que cada usuário ou grupo de usuários pode fazer.
 * **Autenticação Multifator (MFA):** Adicionar uma camada extra de segurança para a conta raiz e para usuários privilegiados.
 * **Gestão de Faturamento:** Monitorar o uso dos serviços e configurar alertas para evitar custos inesperados.
+
+![BOOTCAMP SANTANDER CODE GIRLS (1)](https://github.com/user-attachments/assets/8a960887-3df9-4f2a-b636-625cbbd4a80a)
