@@ -4,7 +4,7 @@ Este repositório documenta meu aprendizado durante o **Bootcamp Santander Code 
 
 ## 📑 Índice
 - [Aula 01 - Introdução](/01-fundamentos-aws.md)
-- [Aula 02 -](/aula02-logica)
+- [Aula 02 -](/02-Infraestrutua-global.md)
 - [Aula 03 - ](/aula03-git-github)
 - [Aula 04 - ](/aula04-java)
 - [Extras](/extras)
