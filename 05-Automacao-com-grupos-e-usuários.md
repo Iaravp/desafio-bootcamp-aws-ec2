@@ -7,3 +7,5 @@ O passo a passo para a automação com grupos de usuários inclui:
 3.  **Adicionar Usuários:** Adicione os usuários a este grupo.
 
 As **Instâncias EC2** são a espinha dorsal da computação na AWS. Elas são essencialmente **máquinas virtuais** que você pode configurar para rodar o que precisar, como servidores web, bancos de dados ou qualquer outra aplicação.
+
+![BOOTCAMP SANTANDER CODE GIRLS (3)](https://github.com/user-attachments/assets/05e75b83-5df2-42fb-9ed5-30d63f7674ad)
